@@ -1,0 +1,9 @@
+word1,word2,cosine_similarity,status
+doctor,physician,0.9747784733772278,computed
+car,automobile,0.9919379949569702,computed
+king,queen,0.9947068095207214,computed
+cat,dog,0.7146462202072144,computed
+computer,banana,,"missing: computer, banana"
+doctor,nurse,0.9629814028739929,computed
+doctor,hospital,0.9872856736183167,computed
+doctor,disease,0.9822279214859009,computed
