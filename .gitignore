@@ -22,3 +22,6 @@ Thumbs.db
 # Temporary and log files
 *.tmp
 *.log
+
+# Local Lab 04 dataset
+lab04/SMSSpamCollection

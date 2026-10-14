@@ -1,0 +1,6 @@
+experiment,representation,classifier,training_time_seconds,vocabulary_size,accuracy,precision,recall,f1,notes
+baseline,TF-IDF unigram,Logistic Regression,0.0182564000001548,7124,0.9622093023255814,0.978494623655914,0.7109375,0.8235294117647058,Test-set metrics; TF-IDF fitted on training data only
+representation_comparison,Average Word2Vec,Logistic Regression,0.0095501999999214,7164,0.9767441860465116,0.9727272727272728,0.8359375,0.8991596638655462,Word2Vec trained on training messages only; test-set metrics
+representation_comparison,TF-IDF unigram,Linear SVM,0.0080925000002025,7124,0.9864341085271318,0.9830508474576272,0.90625,0.943089430894309,Optional Model C; test-set metrics
+ngram_features,TF-IDF unigram,Logistic Regression,0.0166060999999899,7124,0.9622093023255814,0.978494623655914,0.7109375,0.8235294117647058,Test-set metrics
+ngram_features,TF-IDF unigram+bigram,Logistic Regression,0.06426160000000891,38643,0.9563953488372093,1.0,0.6484375,0.7867298578199052,Test-set metrics
