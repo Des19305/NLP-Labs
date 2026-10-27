@@ -1,0 +1,140 @@
+﻿section,sentence,token,score,attention_weight,query,query_token,key_token,model,accuracy,f1,f1_type,training_time_seconds,parameters,T,attention_matrix,matrix_elements,prediction,positive_probability
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,The,0.1,0.07819299997519705,,,,,,,,,,,,,,
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,movie,0.2,0.0864166295696776,,,,,,,,,,,,,,
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,was,0.2,0.0864166295696776,,,,,,,,,,,,,,
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,surprisingly,0.8,0.157461365405292,,,,,,,,,,,,,,
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,good,1.0,0.19232374600968996,,,,,,,,,,,,,,
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,despite,0.1,0.07819299997519705,,,,,,,,,,,,,,
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,a,0.1,0.07819299997519705,,,,,,,,,,,,,,
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,very,0.2,0.0864166295696776,,,,,,,,,,,,,,
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,slow,0.1,0.07819299997519705,,,,,,,,,,,,,,
+18_attention_distribution,The movie was surprisingly good despite a very slow beginning.,beginning,0.1,0.07819299997519705,,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,The,0.1,0.07819299997519705,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,movie,0.2,0.0864166295696776,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,was,0.2,0.0864166295696776,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,surprisingly,0.8,0.157461365405292,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,good,1.0,0.19232374600968996,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,despite,0.1,0.07819299997519705,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,a,0.1,0.07819299997519705,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,very,0.2,0.0864166295696776,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,slow,0.1,0.07819299997519705,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,beginning,0.1,0.07819299997519705,sentiment,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,The,0.2,0.09124357279394342,topic,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,movie,0.9,0.18374199175308306,topic,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,was,0.1,0.08256059881924788,topic,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,surprisingly,0.2,0.09124357279394342,topic,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,good,0.1,0.08256059881924788,topic,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,despite,0.3,0.10083974311318462,topic,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,a,0.1,0.08256059881924788,topic,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,very,0.1,0.08256059881924788,topic,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,slow,0.2,0.09124357279394342,topic,,,,,,,,,,,,,
+19_query_comparison,The movie was surprisingly good despite a very slow beginning.,beginning,0.4,0.11144515147491071,topic,,,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.10810078193822856,,cat,The,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.16953577357473937,,cat,cat,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.10231578458669154,,cat,that,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.10231578458669154,,cat,I,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.16046309173529555,,cat,adopted,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.10231578458669154,,cat,yesterday,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.10231578458669154,,cat,is,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.15263721440497047,,cat,sleeping.,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.09753898878187607,,adopted,The,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.1405062796810018,,adopted,cat,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.0932470276560205,,adopted,that,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.13365370755969572,,adopted,I,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.1849808272115681,,adopted,adopted,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.12841307072690866,,adopted,yesterday,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.0932470276560205,,adopted,is,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.12841307072690866,,adopted,sleeping.,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.1142211663924278,,sleeping.,The,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.15729713951384944,,sleeping.,cat,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.10974249039750489,,sleeping.,that,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.1059679431214247,,sleeping.,I,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.15112943045377614,,sleeping.,adopted,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.1059679431214247,,sleeping.,yesterday,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.10974249039750489,,sleeping.,is,,,,,,,,,,,
+23_attention_visualization,The cat that I adopted yesterday is sleeping.,,,0.14593139660208748,,sleeping.,sleeping.,,,,,,,,,,,
+24_model_comparison,,,,,,,,LAB 05 LSTM,0.79616,0.8081180811808119,binary,70.92171390001022,1313089,,,,,
+24_model_comparison,,,,,,,,LAB 06 Self-Attention,0.83536,0.829621657421972,binary,81.34284190000108,1292353,,,,,
+25_sequence_cost,,,,,,,,,,,,,,10,10 × 10,100,,
+25_sequence_cost,,,,,,,,,,,,,,100,100 × 100,10000,,
+25_sequence_cost,,,,,,,,,,,,,,500,500 × 500,250000,,
+25_sequence_cost,,,,,,,,,,,,,,1000,1000 × 1000,1000000,,
+26_context_aware_sentiment,I like this movie.,<START>,,0.20705032348632812,,,,,,,,,,,,,positive,0.8792634010314941
+26_context_aware_sentiment,I like this movie.,i,,0.20483966171741486,,,,,,,,,,,,,positive,0.8792634010314941
+26_context_aware_sentiment,I like this movie.,like,,0.1917359083890915,,,,,,,,,,,,,positive,0.8792634010314941
+26_context_aware_sentiment,I like this movie.,this,,0.19771850109100342,,,,,,,,,,,,,positive,0.8792634010314941
+26_context_aware_sentiment,I like this movie.,movie,,0.1986556351184845,,,,,,,,,,,,,positive,0.8792634010314941
+26_context_aware_sentiment,I do not like this movie.,<START>,,0.14637896418571472,,,,,,,,,,,,,negative,0.3660155236721039
+26_context_aware_sentiment,I do not like this movie.,i,,0.14542172849178314,,,,,,,,,,,,,negative,0.3660155236721039
+26_context_aware_sentiment,I do not like this movie.,do,,0.14252731204032898,,,,,,,,,,,,,negative,0.3660155236721039
+26_context_aware_sentiment,I do not like this movie.,not,,0.13963373005390167,,,,,,,,,,,,,negative,0.3660155236721039
+26_context_aware_sentiment,I do not like this movie.,like,,0.14040698111057281,,,,,,,,,,,,,negative,0.3660155236721039
+26_context_aware_sentiment,I do not like this movie.,this,,0.14259962737560272,,,,,,,,,,,,,negative,0.3660155236721039
+26_context_aware_sentiment,I do not like this movie.,movie,,0.14303162693977356,,,,,,,,,,,,,negative,0.3660155236721039
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",<START>,,0.059843357652425766,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",i,,0.05929684266448021,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",thought,,0.06346190720796585,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",this,,0.05798428878188133,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",movie,,0.05810678377747536,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",would,,0.06638485938310623,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",be,,0.05824790149927139,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",bad,,0.14039133489131927,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",but,,0.057760756462812424,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",it,,0.059440914541482925,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",was,,0.058712005615234375,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",actually,,0.06336342543363571,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I thought this movie would be bad, but it was actually excellent.",excellent,,0.19700561463832855,,,,,,,,,,,,,positive,0.998447835445404
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",<START>,,0.05492420122027397,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",i,,0.054338324815034866,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",expected,,0.06659397482872009,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",this,,0.05252332240343094,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",movie,,0.052731387317180634,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",to,,0.052600082010030746,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",be,,0.05052327737212181,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",awful,,0.11794951558113098,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",but,,0.05128401517868042,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",it,,0.05452900379896164,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",turned,,0.05245601758360863,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",out,,0.05627905949950218,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",to,,0.052600082010030746,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",be,,0.05052327737212181,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"I expected this movie to be awful, but it turned out to be excellent.",excellent,,0.18014445900917053,,,,,,,,,,,,,positive,0.9975234270095825
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",<START>,,0.03488634526729584,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",what,,0.03816967085003853,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",a,,0.03302927315235138,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",brilliant,,0.09398920834064484,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",movie,,0.033628080040216446,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",the,,0.03324569761753082,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",plot,,0.033210232853889465,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",was,,0.03253515809774399,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",incoherent,,0.05040966346859932,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",the,,0.03324569761753082,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",acting,,0.03274776041507721,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",was,,0.03253515809774399,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",lifeless,,0.21215683221817017,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",and,,0.03473859652876854,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",i,,0.034546494483947754,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",couldn,,0.0326729454100132,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",t,,0.03385782241821289,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",wait,,0.034527961164712906,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",for,,0.03268421068787575,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",it,,0.03467128053307533,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",to,,0.03355675935745239,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"What a brilliant movie: the plot was incoherent, the acting was lifeless, and I couldn't wait for it to end.",end,,0.03495512902736664,,,,,,,,,,,,,negative,2.5821129089054207e-12
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",<START>,,0.05234590545296669,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",the,,0.048974599689245224,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",film,,0.051440369337797165,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",was,,0.04793744161725044,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",not,,0.048097822815179825,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",bad,,0.09512870013713837,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",at,,0.04881826043128967,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",all,,0.048000503331422806,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",in,,0.04887432977557182,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",fact,,0.05059543251991272,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",i,,0.05165344849228859,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",enjoyed,,0.12643775343894958,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",it,,0.05188792571425438,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",more,,0.05615393444895744,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",than,,0.051037635654211044,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",i,,0.05165344849228859,,,,,,,,,,,,,positive,0.9948390126228333
+26_context_aware_sentiment,"The film was not bad at all; in fact, I enjoyed it more than I expected.",expected,,0.07096251845359802,,,,,,,,,,,,,positive,0.9948390126228333
